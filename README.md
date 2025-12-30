@@ -1,5 +1,8 @@
 # Material Cost Calculator (Excel)
 
+<img width="1267" height="554" alt="dashboard summary" src="https://github.com/user-attachments/assets/04282193-eab7-4f66-9aa2-c24ba09a9240" />
+
+
 The Material Cost Calculator is an Excel-based tool designed to estimate total project or part costs based on material quantities and unit prices.
 It automatically aggregates costs by material type and supplier, featuring dynamic tables, charts, and VBA automation for real-time updates.
 
